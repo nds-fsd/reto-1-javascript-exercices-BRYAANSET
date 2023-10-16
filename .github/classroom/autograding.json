@@ -1,0 +1,134 @@
+{
+  "tests": [
+    {
+      "name": "Exercice 01",
+      "setup": "npm install",
+      "run": "npm test 01_helloWorld/helloWorld.spec.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Exercice 02",
+      "setup": "npm install",
+      "run": "npm test 02_repeatString/repeatString.spec.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Exercice 03",
+      "setup": "npm install",
+      "run": "npm test 03_reverseString/reverseString.spec.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Exercice 04",
+      "setup": "npm install",
+      "run": "npm test 04_removeFromArray/removeFromArray.spec.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Exercice 05",
+      "setup": "npm install",
+      "run": "npm test 05_sumAll/sumAll.spec.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Exercice 06",
+      "setup": "npm install",
+      "run": "npm test 06_leapYears/leapYears.spec.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Exercice 07",
+      "setup": "npm install",
+      "run": "npm test 07_tempConversion/tempConversion.spec.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Exercice 08",
+      "setup": "npm install",
+      "run": "npm test 08_calculator/calculator.spec.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Exercice 09",
+      "setup": "npm install",
+      "run": "npm test 09_palindromes/palindromes.spec.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Exercice 10",
+      "setup": "npm install",
+      "run": "npm test 10_fibonacci/fibonacci.spec.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Exercice 11",
+      "setup": "npm install",
+      "run": "npm test 11_getTheTitles/getTheTitles.spec.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Exercice 12",
+      "setup": "npm install",
+      "run": "npm test 12_findTheOldest/findTheOldest.spec.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Exercice 13",
+      "setup": "npm install",
+      "run": "npm test 13_caesar/caesar.spec.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
